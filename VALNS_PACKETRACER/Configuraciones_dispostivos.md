@@ -152,8 +152,7 @@ write
 ## 5. Configuración IP de los Dispositivos
 
 ```text
-6. Configuración IP de los PCs (En la pestaña "Desktop > IP Configuration" de cada PC)
-Switch0 (Administración - VLAN 10):
+6. Configuración IP de los PCs:
 
 PC0: IP 192.168.10.10, Máscara 255.255.255.0, Gateway 192.168.10.1
 
